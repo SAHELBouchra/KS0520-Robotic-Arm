@@ -24,6 +24,9 @@ This project was carried out as part of the course **"Design and Modeling of Rob
 1. **Mechanical Assembly**  
    - Structural build of the KS0520 robotic arm  
    - Servo motor installation and mechanical alignment
+  
+<img width="400" height="447" alt="image" src="https://github.com/user-attachments/assets/9ac4db1f-58d0-49bc-9803-177eca5fae42" />
+
      
 
 2. **Electronics Integration**  
@@ -31,7 +34,7 @@ This project was carried out as part of the course **"Design and Modeling of Rob
    - Connecting components to a microcontroller
 
 
- <img width="449" height="275" alt="image" src="https://github.com/user-attachments/assets/57c111f3-4b07-4698-a6e4-6ebbc251d119" />
+ <img width="350" height="275" alt="image" src="https://github.com/user-attachments/assets/57c111f3-4b07-4698-a6e4-6ebbc251d119" />
 
 
 4. **Software Development**  
@@ -39,9 +42,20 @@ This project was carried out as part of the course **"Design and Modeling of Rob
    - Implementing inverse kinematics for positioning  
    - Testing various control algorithms
 
-5. **Final Testing & Demonstration**  
-   - Executing automated tasks (e.g., pick and place)  
-   - Analyzing performance and calibration accuracy  
+---
+
+## 🕹️ Control Methods
+
+### 🌐 Application Interface  
+
+<img width="319" height="250" alt="image" src="https://github.com/user-attachments/assets/0928be78-6aa5-418d-ac1b-6d16db37309e" />
+
+
+### 🎮 Gamepad Control (Manette)  
+Connect a USB or wireless game controller to move the arm intuitively in real time.
+
+<img width="317" height="227" alt="image" src="https://github.com/user-attachments/assets/01aaed8f-52b4-4c5f-8433-c959fce1ba34" />
+
 
 ---
 
@@ -65,27 +79,7 @@ Through this project, we:
 - **Power Supply**: 5–6V regulated for servo motors  
 - **Simulation (optional)**: TinkerCAD / Proteus / MATLAB
 
----
 
-## 📸 Project Gallery
-
-*Insert here images of your KS0520 arm during construction and testing:*
-
-![Robotic Arm Build](./path/to/your/image1.jpg)  
-![Final Assembly](./path/to/your/image2.jpg)
-
----
-
-## 👨‍💻 Team Members
-
-- Bouchra Sahel  
-- *[Add other contributors if applicable]*
-
----
-
-## 📌 License
-
-This project is for educational purposes. Please check with your institution's guidelines for re-use or modification.
 
 
 
