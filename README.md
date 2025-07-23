@@ -29,15 +29,17 @@ This project was carried out as part of the course **"Design and Modeling of Rob
 2. **Electronics Integration**  
    - Wiring servo motors and power supply  
    - Connecting components to a microcontroller
-     <img width="449" height="275" alt="image" src="https://github.com/user-attachments/assets/57c111f3-4b07-4698-a6e4-6ebbc251d119" />
 
 
-3. **Software Development**  
+ <img width="449" height="275" alt="image" src="https://github.com/user-attachments/assets/57c111f3-4b07-4698-a6e4-6ebbc251d119" />
+
+
+4. **Software Development**  
    - Writing control code for coordinated joint movements  
    - Implementing inverse kinematics for positioning  
    - Testing various control algorithms
 
-4. **Final Testing & Demonstration**  
+5. **Final Testing & Demonstration**  
    - Executing automated tasks (e.g., pick and place)  
    - Analyzing performance and calibration accuracy  
 
