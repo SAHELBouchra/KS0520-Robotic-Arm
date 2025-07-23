@@ -69,15 +69,6 @@ Through this project, we:
 - Gained hands-on experience in mechanical design validation  
 - Explored teamwork and project-based problem solving
 
----
-
-## 🛠 Tools & Technologies
-
-- **Robotic Arm Kit**: KS0520  
-- **Microcontroller**: Arduino Uno / Mega (or other)  
-- **Programming Language**: C/C++ (Arduino IDE)  
-- **Power Supply**: 5–6V regulated for servo motors  
-- **Simulation (optional)**: TinkerCAD / Proteus / MATLAB
 
 
 
